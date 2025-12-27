@@ -8,6 +8,8 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1DNAO1HcSCGq2n8bYqcqBICVOWJDJHcbd
 
+acces link: https://oralcalculation.netlify.app/
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
